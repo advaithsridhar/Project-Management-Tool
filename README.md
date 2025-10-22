@@ -1,13 +1,8 @@
-# jira-clone-nextjs
-
-![GitHub repo size](https://img.shields.io/github/repo-size/evanch98/jira-clone-nextjs)
-![GitHub stars](https://img.shields.io/github/stars/evanch98/jira-clone-nextjs?style=social)
-![GitHub forks](https://img.shields.io/github/forks/evanch98/jira-clone-nextjs?style=social)
-
+# ProjectMangementTool
 <br />
 November, 2024. <br />
 
-Full-stack Jira Clone project built by using Next JS 14, React, TypeScript, Shadcn UI, Tailwind CSS, Hono, and Appwrite.
+Full-stack project built by using Next JS 14, React, TypeScript, Shadcn UI, Tailwind CSS, Hono, and Appwrite.
 
 ## Features
 
@@ -23,7 +18,6 @@ These instructions will help you set up and run the project on your local machin
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/evanch98/jira-clone-nextjs.git
 cd your-repo-name
 ```
 
